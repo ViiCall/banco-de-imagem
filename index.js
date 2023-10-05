@@ -1,3 +1,3 @@
-function changeImg() {
-  const inputImg = document.getElementById('imgInput');
-}
+const profileImage = document.getElementById('profile-image');
+const fileImput = document.getElementById('file-imput');
+const changePhotoBn = document.getElementById('');
